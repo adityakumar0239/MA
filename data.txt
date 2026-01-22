@@ -1,0 +1,4 @@
+Artificial Intelligence is transforming industries worldwide.
+Machine learning enables systems to learn from data automatically.
+Deep learning uses neural networks to process information.
+AI applications include healthcare, finance, and robotics.
