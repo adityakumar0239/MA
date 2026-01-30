@@ -31,10 +31,10 @@ https://itexamanswers.net/7-3-2-4-lab-attacking-a-mysql-database-instructor-vers
 
 https://computingpost.medium.com/configure-rsyslog-centralized-log-server-on-ubuntu-22-04-20-04-18-04-b5222129b3f3 (6)
 
-https://computingpost.medium.com/configure-rsyslog-centralized-log-server-on-ubuntu-22-04-20-04-18-04-b5222129b3f3 (7)
+https://medium.com/@7yr4n7/graylog-a-detailed-overview-and-installation-guide-798634a29115 (7)
 
 https://medium.com/@dannyopara/installing-splunk-enterprise-on-ubuntu-step-by-step-guide-b545982038c3 (8)
 
 https://medium.com/@redswitches/how-to-install-elk-stack-on-ubuntu-20-04-22-04-2c4f13a08c63 (9)
 
-https://www.chirags.in/tutorial/index.php/97/how-to-install-graylog-on-ubuntu-24-04-lts-step-by-step (10)
+https://www.chirags.in/tutorial/index.php/97/how-to-install-graylog-on-ubuntu-24-04-lts-step-by-step (10) & https://medium.com/@7yr4n7/graylog-a-detailed-overview-and-installation-guide-798634a29115 (10) "you can go with both if the link will load"
