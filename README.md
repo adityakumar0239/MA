@@ -5,7 +5,7 @@ https://itexamanswers.net/9-1-1-6-lab-encrypting-and-decrypting-data-using-opens
 https://itexamanswers.net/16-1-6-lab-hashing-things-out-answers.html (1c)
 
 
-https://itexamanswers.net/9-1-1-8-lab-examining-telnet-and-ssh-in-wireshark-instructor-version.html (2a)
+https://itexamanswers.net/9-1-1-8-lab-examining-telnet-and-ssh-in-wireshark-instructor-version.html (2a) sudo wireshark-gtk
 
 https://itexamanswers.net/27-2-16-lab-investigating-an-attack-on-a-windows-host-answers.html (2b)
 
