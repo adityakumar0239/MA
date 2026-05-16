@@ -1,6 +1,0 @@
-Name,Age,Income,Join_Date,category_column,numerical_column
-Alice,25.0,50000.0,2023/01/10,High,50
-Bob,,60000.0,10-02-2023,Medium ,55
-,30.0,,2023-03-15,,52
-David,45.0,300000.0,"March 20, 2023",LOW,1000
-Eva,22.0,45000.0,2023-04-05, medium,48
