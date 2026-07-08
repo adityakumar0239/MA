@@ -27,6 +27,12 @@ Blockchain Index
 	D	Write a Solidity program that demonstrates use of libraries, assembly, events, and error handling
 	
 	E	Build a decentralized application (DApp) using Angular for the front end and Truffle along with Ganache CLI for the back end.
+
+
+4	A	Install and demonstrate use of hyperledger-Irhoa
+
+	B	Demonstration on interacting with NFT
+
 	
   
 4	A	Install and demonstrate use of hyperledger-Irhoa
