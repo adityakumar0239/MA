@@ -29,11 +29,34 @@ Blockchain Index
 	E	Build a decentralized application (DApp) using Angular for the front end and Truffle along with Ganache CLI for the back end.
 
 
-4	A	Install and demonstrate use of hyperledger-Irhoa
 
-	B	Demonstration on interacting with NFT
 
 	
+  Deep Learning Index
   
+1A	Intro to TensorFlow: Create tensors with different shapes and data types. Perform basic operations like addition, subtraction, multiplication, and division on tensors. Reshape, slice, and index tensors. Perform matrix multiplication and find eigenvectors and eigenvalues.
+
+1B	Program to solve the XOR problem.
+
+2	Implement a simple linear regression model using TensorFlow's low-level API (or tf.keras). Train the model on a toy dataset, visualize the loss function and the learned linear relationship, and make predictions on new data points.
+
+3A	Implementing deep neural network for performing binary classification task.
+
+3B	Using a deep feed-forward network with two hidden layers for performing multi-class classification and predicting the class.
+
+4	Write a program to implement deep learning techniques for image segmentation.
+
+5	Write a program to predict a caption for a sample image using LSTM.
+
+6	Applying the Autoencoder algorithms for encoding real-world data.
+
+7	Write a program for character recognition using RNN and compare it with CNN.
+
+8	Write a program to develop Autoencoders using MNIST Handwritten Digits.
+
+9	Demonstrate recurrent neural network that learns to perform sequence analysis for stock price (Google stock price).
+
+10	Applying Generative Adversarial Networks for image generation and unsupervised tasks.
+
 4	A	Install and demonstrate use of hyperledger-Irhoa
 	B	Demonstration on interacting with NFT
