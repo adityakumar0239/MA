@@ -1,0 +1,28 @@
+1A : CREATE A SIMPLE SEQUENCE-BASED PROJECT
+1B. Create A Simple Flowchart-Based Project.
+1C. Automate Uipath Number Calculation (Subtraction, Multiplication, Division Of Numbers).(EASY BUT LENGTHY)
+2A. Decision making and looping
+2B Demonstrate switch statement with an example.
+2C. Create An Automation To Print Numbers From 1 To 10 With Break After Thewriteline Activity Inside For Each Activity
+2D Create an automation using Do..While Activity to print numbers from 5 to 1.(SMALLEST PRACTICAL)
+2E. Create an automation using Delay Activity between two writeline activities to separate their execution by 5 seconds.(SMALLEST PRACTICAL)
+2F.Create An Automation To Demonstrate Use Of Decision Statements (If)
+3A. Automate any process using basic recording(EASIEST PRACTICAL)
+3B. Basic Recording Using Notepad
+3C .Automate Any Process Using Desktop Recording Using Tool Bar
+3D. Web Recording E.G. Find The Rating Of The Movie From Imdb Web Site
+3E. Web Recording E.G. Find The Rating Of The Movie From Imdb Web Site
+3F: Web Recording Manually(BB SE MAT KARNA TOO LENGTHY)
+4A Excel Automation
+4B. Create An Automation To Write Data To Specific Cell Of An Excel Sheet.
+4C. Create An Automation To Read Data To Specific Cell Of An Excel Sheet.
+4D. Create An Automation To Append Data To Specific Cell Of An Excel Sheet.
+4E Create an automation to sort a table of an excel sheet.
+5A: Implementing the Attach Window / Use Application/Browser Activity
+5C. Automate Using Element Exists
+6B Demonstrate the following events in UiPath:
+6C - Automate The Process Of Launching An Assistant Bot On A Keyboard Event.
+7A Automate the following screen scraping methods using UiPath
+8E Extract data from a PDF or Excel file and populate it into a database or spreadsheet. Implement data manipulation techniques like filtering, sorting, or data validation.
+8F- Demonstrate Exception Handling using UiPath
+10a - Deploy bots to Orchestrator
